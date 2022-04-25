@@ -1,0 +1,1 @@
+!!!This version work only with xpath locators!!!

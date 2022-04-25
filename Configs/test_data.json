@@ -1,0 +1,9 @@
+{
+  "property_value" : 12000000,
+  "initial_pay_percent" : 20,
+  "initial_pay_sum" : "(2 400 000 руб.)",
+  "credit_sum" : "9 600 000",
+  "credit_period" : 20,
+  "percent_from" : 5,
+  "percent_to" : 12
+}

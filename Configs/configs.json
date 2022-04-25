@@ -1,0 +1,5 @@
+{
+  "browser" : "chrome",
+  "wait_time_out" : 10,
+  "main_page_url" : "https://calcus.ru/kalkulyator-ipoteki"
+}
